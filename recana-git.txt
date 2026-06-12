@@ -2,3 +2,8 @@ Recana Git
 - Masuk website ke git/github
 - melakukan pembaruan
 - Selalu commit
+- PHP Frameworks
+  * Laravel
+- JavaScript Frameworks
+  * Vue
+  * React
