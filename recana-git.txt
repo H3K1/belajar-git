@@ -1,0 +1,3 @@
+Recana Git
+- Masuk website ke git/github
+- melakukan pembaruan
