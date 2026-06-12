@@ -4,3 +4,8 @@ Recana Git
 - Selalu commit
 - Java Frameworks
   * Springboot
+- PHP Frameworks
+  * Laravel
+- JavaScript Frameworks
+  * Vue
+  * React
